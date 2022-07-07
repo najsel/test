@@ -1,3 +1,16 @@
 {
-    "name": "Another one"
-}
+    "scope": "G",
+    "version": 1,
+    "restricted": false,
+    "overridable": true,
+    "files": [
+      "props.json"
+    ],
+    "attributes": {
+      "lastModification": {
+  
+        "actor": "external",
+        "timestamp": "2020-11-03T05:17:57Z"
+      },
+      "lastModificationSignature": "53925a310569defc33b592abfce75684a868940f069591c0eb538550bdac6e72"
+    }
